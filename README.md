@@ -4,8 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=Brunoson&style=flat-square&color=blue" alt=""/>
 </div>
 -->
-Hi there! I'm Bruno ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
+### Hi there! I'm Bruno ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================================
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
